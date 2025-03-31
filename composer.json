@@ -5,5 +5,6 @@
             "Igorb\\PubTestPackage\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "abandoned": true
 }
