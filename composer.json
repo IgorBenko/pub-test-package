@@ -2,7 +2,7 @@
     "name": "igorb/pub-test-package",
     "autoload": {
         "psr-4": {
-            "Igorb\\PubTestPackage\\": "src3/"
+            "Igorb\\PubTestPackage\\": "src5/"
         }
     },
     "require": {}
