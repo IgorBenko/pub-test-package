@@ -5,5 +5,8 @@
             "Igorb\\PubTestPackage\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+        "my-extra-key": "my-extra-value"
+    }
 }
